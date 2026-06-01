@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'helvetica neue';
+    /* color: #fff; */
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+body {
+  background: #000;
+}
+input {
+    padding: 10px;
+    font-size: 18px;
+    width: 300px;
+    margin: 20px auto;
+    display: block;
+}
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    display: block;
+    margin: 20px auto;
+    cursor: pointer;
+}
