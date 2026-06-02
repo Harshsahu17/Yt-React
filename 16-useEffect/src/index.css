@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'helvetica neue';
+    color: #fff;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+body {
+  background-color: #000;
+}
+button {
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #000;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 20px;
+}
+h1 {
+    margin: 20px;
+}
